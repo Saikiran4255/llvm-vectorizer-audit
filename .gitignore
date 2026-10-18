@@ -1,0 +1,9 @@
+results/raw.csv
+results/verdicts.*
+results/*.png
+results/*.json
+results/records/
+*.opt.yaml
+*.o
+a.out
+__pycache__/
