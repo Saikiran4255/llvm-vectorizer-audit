@@ -1,0 +1,7 @@
+{
+  "triad_gbytes_per_s": 12.933,
+  "bytes_counted_per_elem": 24.0,
+  "scalar_fma_gflops": 10.6218,
+  "chains": 8.0,
+  "ridge_flops_per_byte": 0.821294363256785
+}
